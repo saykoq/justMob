@@ -14,7 +14,7 @@
     "facebook": {
         "native": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
         "banner": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-        "interstitial": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
+        "interstitial": "",
         "nativebanner": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
         "mediumrectangle": "IMG_16_9_LINK#YOUR_PLACEMENT_ID"
     },
