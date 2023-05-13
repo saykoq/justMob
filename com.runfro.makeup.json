@@ -31,14 +31,14 @@
         "mediumrectangle": "ca-app-pub-3940256099942544/6300978111"
     },
     "Unity": {
-        "AppId": "",
+        "AppId": "5277630",
         "Banner":"Banner_Android",
         "Inter":"Interstitial_Android"
     },
     "Applovin":{
-        "Banner":"",
-        "Inter":"",
-        "Native":""
+        "Banner":"00ea13b4d706f510",
+        "Inter":"621ed7d079d629f7",
+        "Native":"4c1133c5a83a0acb"
     },
     "guide": [
          {
