@@ -7,7 +7,7 @@
     "networks": {
         "native": ["facebook", "admob", "yandex", "Applovin"],
         "banner": ["facebook", "admob", "yandex", "Applovin","Unity"],
-        "interstitial": ["facebook", "admob", "yandex", "Applovin","Unity"],
+        "interstitial": ["facebook", "admob", "Applovin","Unity"],
         "nativebanner": ["facebook", "admob"],
         "mediumrectangle": ["facebook", "admob", "yandex", "startapp"]
     },
@@ -20,8 +20,7 @@
     },
     "yandex": {
         "native": "R-M-1396391-1",
-        "banner": "R-M-1396391-2",
-        "interstitial": "R-M-1396391-3"
+        "banner": "R-M-1396391-2"
     },
     "admob": {
         "publisher": "pub-3940256099942544",
