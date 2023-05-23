@@ -18,7 +18,11 @@
         "nativebanner": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
         "mediumrectangle": "IMG_16_9_LINK#YOUR_PLACEMENT_ID"
     },
-   
+      "yandex": {
+        "native": "R-M-1396391-1",
+        "banner": "R-M-1396391-2",
+        "interstitial": "R-M-1396391-3" 
+    },
     "admob": {
         "publisher": "pub-3940256099942544",
         "banner": "ca-app-pub-3940256099942544/6300978111",
