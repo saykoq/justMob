@@ -5,11 +5,11 @@
     "NewAppLink":"",
 
     "networks": {
-        "native": ["facebook", "admob", "yandex", "Applovin"],
-        "banner": ["facebook", "admob", "yandex", "Applovin","Unity"],
+        "native": ["facebook", "admob", "Applovin"],
+        "banner": ["facebook", "admob", "Applovin","Unity"],
         "interstitial": ["facebook", "admob", "Applovin","Unity"],
         "nativebanner": ["facebook", "admob"],
-        "mediumrectangle": ["facebook", "admob", "yandex", "startapp"]
+        "mediumrectangle": ["facebook", "admob"]
     },
     "facebook": {
         "native": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
@@ -18,10 +18,7 @@
         "nativebanner": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
         "mediumrectangle": "IMG_16_9_LINK#YOUR_PLACEMENT_ID"
     },
-    "yandex": {
-        "native": "R-M-1396391-1",
-        "banner": "R-M-1396391-2"
-    },
+   
     "admob": {
         "publisher": "pub-3940256099942544",
         "banner": "ca-app-pub-3940256099942544/6300978111",
