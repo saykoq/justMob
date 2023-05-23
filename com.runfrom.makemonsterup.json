@@ -7,7 +7,7 @@
     "networks": {
         "native": ["facebook", "admob", "Applovin"],
         "banner": ["facebook", "admob", "Applovin","Unity"],
-        "interstitial": ["facebook", "admob", "Applovin","Unity"],
+        "interstitial": ["facebook", "admob", "Unity"],
         "nativebanner": ["facebook", "admob"],
         "mediumrectangle": ["facebook", "admob", "startapp"]
     },
