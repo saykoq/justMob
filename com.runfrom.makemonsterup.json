@@ -9,7 +9,7 @@
         "banner": ["facebook", "admob", "Applovin","Unity"],
         "interstitial": ["facebook", "admob", "Applovin","Unity"],
         "nativebanner": ["facebook", "admob"],
-        "mediumrectangle": ["facebook", "admob"]
+        "mediumrectangle": ["facebook", "admob", "startapp"]
     },
     "facebook": {
         "native": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
